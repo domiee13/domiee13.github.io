@@ -17,7 +17,7 @@ timezone: Asia/Shanghai
 # --------------------------
 title: Domiee13                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: "Believe you can and you're halfway there."   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
