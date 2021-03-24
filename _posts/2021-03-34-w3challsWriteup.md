@@ -1,5 +1,5 @@
 ---
-title: W3Challs - Web - Authentication
+title: W3Challs - Web - Authentication Writeup
 date: 2021-03-24 19:45:00 +0700
 categories: [Writeup, W3Challs]
 tags: [web, writeup]     # TAG names should always be lowercase
