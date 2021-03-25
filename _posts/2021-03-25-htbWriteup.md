@@ -2,7 +2,7 @@
 title: hackthebox- misc - misDIRection Writeup
 date: 2021-03-25 20:30:00 +0700
 categories: [Writeup, hackthebox]
-tags: [web, writeup]     # TAG names should always be lowercase
+tags: [misc, writeup]     # TAG names should always be lowercase
 ---
 
 # hackthebox - Misc - Authentication
