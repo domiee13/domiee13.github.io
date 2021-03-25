@@ -88,6 +88,7 @@ SFRCe0RJUjNjdEx5XzFuX1BsNDFuX1NpN2V9
 Một thói quen của mình là khi thấy 1 chuỗi như vậy việc đầu check thử chiều dài của chuỗi xem có chia hết cho 4 không, nếu có khả năng cao nó là base64 xDD
 
 ![](/assets/img/hackthehox/miscDIR4.png)
+
 Okay, mình dùng [CyberChef](https://gchq.github.io/CyberChef/) giả mã và nhận được flag, flag là gì thì mình không nói :^)
 ```
 Flag: HTB{DIR3ctLy_*************}
