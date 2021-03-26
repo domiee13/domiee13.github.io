@@ -5,7 +5,7 @@ categories: [Writeup, hackthebox]
 tags: [misc, writeup]     # TAG names should always be lowercase
 ---
 
-# hackthebox - Misc - Authentication
+# hackthebox - Misc - misDIRection
 
 *Link: https://app.hackthebox.eu/challenges/55*
 
