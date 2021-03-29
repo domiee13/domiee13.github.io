@@ -11,13 +11,13 @@ tags: [misc, writeup]     # TAG names should always be lowercase
 
 Sau khi download và giải nén ta nhận được 1 folder .secret như sau
 
-![](/assets/img/hackthehox/miscDIR1.png)
+![](/assets/img/hackthebox/miscDIR1.png)
 Mình check thử 1 vài thư mục con
 
-![](/assets/img/hackthehox/miscDIR2.png)
+![](/assets/img/hackthebox/miscDIR2.png)
 
 Dùng lệnh tree để xem tổng quan cấu trúc thư mục:
-![](/assets/img/hackthehox/miscDIR3.png)
+![](/assets/img/hackthebox/miscDIR3.png)
 
 Ban đầu mình viết 1 script python dùng thư viện [glob](https://docs.python.org/3/library/glob.html) để liệt kê hết tên thư mục ra và đây là kết quả:
 ```
@@ -87,7 +87,7 @@ SFRCe0RJUjNjdEx5XzFuX1BsNDFuX1NpN2V9
 ```
 Một thói quen của mình là khi thấy 1 chuỗi như vậy việc đầu check thử chiều dài của chuỗi xem có chia hết cho 4 không, nếu có khả năng cao nó là base64 xDD
 
-![](/assets/img/hackthehox/miscDIR4.png)
+![](/assets/img/hackthebox/miscDIR4.png)
 
 Okay, mình dùng [CyberChef](https://gchq.github.io/CyberChef/) giả mã và nhận được flag, flag là gì thì mình không nói :^)
 ```
