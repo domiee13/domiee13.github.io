@@ -1,6 +1,6 @@
 ---
 title: UMassCTF'21 - Web - Hermit-Part 1 Writeup
-date: 2021-03-27 13:30:00 +0700
+date: 2021-03-29 6:00:00 +0700
 categories: [Writeup, UMassCTF'21]
 tags: [web, writeup]     # TAG names should always be lowercase
 ---
